@@ -78,7 +78,7 @@
 
 ```bash
 # Clone the repo
-git clone https://github.com/itzpa1/modiman.git
+git clone https://github.com/un-rohit/MODI-MAN.git
 cd modiman
 
 # Install dependencies
@@ -135,7 +135,11 @@ You can also deploy to [Netlify](https://netlify.com) or [GitHub Pages](https://
 ## 🙌 Credits
 
 - Inspired by the classic **Pac-Man** arcade game by Namco
-- Built with ❤️ by **[code.itzpa1](https://github.com/itzpa1)**
+- Built with ❤️ by **Rohit Kumar**
+
+### Previous Developer
+
+- Originally developed by **[code.itzpa1](https://github.com/itzpa1)**
 
 ---
 
@@ -143,6 +147,6 @@ You can also deploy to [Netlify](https://netlify.com) or [GitHub Pages](https://
 
 *If you liked the project, drop a ⭐ on the repo — it means a lot!*
 
-[![GitHub Stars](https://img.shields.io/github/stars/itzpa1/modiman?style=social)](https://github.com/itzpa1/modiman)
+[![GitHub Stars](https://img.shields.io/github/stars/un-rohit/MODI-MAN?style=social)](https://github.com/un-rohit/MODI-MAN)
 
 </div>
